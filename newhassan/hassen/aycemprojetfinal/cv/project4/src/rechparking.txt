@@ -1,0 +1,2 @@
+ariana;aaa;90;aza;aaa;vide;A;annuelle;camion;oui;1;1;0;27;1;1;
+aa;aa;90;aaa;aa;vide;A;mensuelle;moto;oui;2;1;0;27;1;1;
